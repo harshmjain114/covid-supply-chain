@@ -4,6 +4,8 @@ The COVID-19 pandemic has highlighted the importance of efficient and secure sup
 
 Blockchain technology can provide several benefits to the COVID-19 supply chain. By storing all transactions on a decentralized, immutable ledger, blockchain can help ensure compliance with regulations and reduce the risk of fraud or counterfeiting. The use of historical data stored on the blockchain can also help to increase the credibility of the supply chain by providing a verifiable record of past transactions. This can be particularly useful for tracking the movement and storage of critical goods such as PPE and vaccines. Blockchain can also enhance the security of the supply chain by making transactions resistant to tampering and unauthorized access. In addition, the use of smart contracts can automate manual processes such as ordering and payment, increasing efficiency and reducing the risk of errors and delays. By providing real-time visibility into the movement of goods and enabling more accurate forecasting and planning, blockchain can also improve the overall effectiveness of the supply chain. Overall, the adoption of blockchain in the COVID-19 supply chain can help to increase efficiency, reduce costs, and improve the reliability and trustworthiness of the distribution process.
 
+<p align="center"> <img width="800" height="500" src="https://user-images.githubusercontent.com/24620379/226461431-6c6ed35f-074d-40d0-9ed0-314eadffda98.png"> </p>
+
 ## Actor Roles
 In the pharmaceutical industry, the supply chain involves a number of different actors working together to produce and distribute vaccines. The actors and their roles in the vaccine supply chain are as follows:
 
